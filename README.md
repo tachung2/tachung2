@@ -1,4 +1,8 @@
 <div align="center">
   <img src="https://github.com/tachung2/tachung2/assets/40621278/f132879a-87ac-4d41-9746-4de52c73b58c">
-  <h1>👋Hi, I'm tachung from Belle-ravi Crew!</h1>
+  <h3>👋Hi, I'm tachung from Belle-ravi Crew!</h3>
+  </br>
+  <h3>🔧My tech stack🔧</3>
+  <img src="https://img.shields.io/badge/Vue.js-#4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+  
 </div>
