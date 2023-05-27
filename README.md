@@ -24,6 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tachung2">
   </br>
   <h3💌>My SNS💌<h3>
-  <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@Tachung">
+  <img src="[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)">
 </div>
 
