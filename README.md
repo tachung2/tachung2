@@ -3,6 +3,9 @@
   <h3>👋Hi, I'm tachung from Belle-ravi Crew!</h3>
   </br>
   <h3>🔧My tech stack🔧</3>
-  <img src="https://img.shields.io/badge/vuedotjs-#4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
-  
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+
 </div>
