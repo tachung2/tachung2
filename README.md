@@ -13,7 +13,7 @@
   <h4>Framework to use</h4>
   <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
   </br>
   <h4>Collaboration tools and IDE</h4>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
@@ -28,6 +28,9 @@
   <h3💌>My SNS💌<h3>
   <a href="https://www.youtube.com/@Tachung" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube">
+  </a>
+  <a href="https://www.instagram/tachung_twitch">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
   </a>
 </div>
 
