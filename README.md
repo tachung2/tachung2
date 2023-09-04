@@ -30,7 +30,7 @@
   <a href="https://www.youtube.com/@Tachung" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube">
   </a>
-  <a href="https://www.instagram/tachung_twitch">
+  <a href="https://www.instagram.com/tachung_twitch">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
   </a>
 </div>
