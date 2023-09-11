@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/tachung2/tachung2/assets/40621278/f132879a-87ac-4d41-9746-4de52c73b58c" style="border-radius:50%;">
+  <img src="https://github.com/tachung2/tachung2/assets/40621278/f132879a-87ac-4d41-9746-4de52c73b58c" style="border:1px; border-radius:50%;">
   <h3>👋Hi, I'm tachung from Belle-ravi Crew!</h3>
   </br>
   <h3>📚My tech stack📚</3>
