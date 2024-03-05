@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="[https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge](https://shields.io/badge/react-black?logo=react&style=for-the-badge)">
+  <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge">
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
   </br>
   <h4>Collaboration tools and IDE</h4>
